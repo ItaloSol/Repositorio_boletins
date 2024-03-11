@@ -226,7 +226,7 @@ if(isset($_POST['senha'])){
 
 
 
-<?php
+
 
 if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_FILES['pdfFile'])) {
   // Verifica se o arquivo foi enviado sem erros

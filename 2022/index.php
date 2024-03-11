@@ -148,8 +148,7 @@
   </div>
 
   <div class="my-3 p-3 bg-body rounded shadow-sm">
-  <a href="/../boletins" class="btn btn-secondary rounded-pill px-3" type="button">Voltar</button></a>
-  <a href="/../boletins/2022/1_inserir_inserir.php" class="btn btn-warning rounded-pill px-3" type="button">Adicionar</a>
+  
     <h6 class="border-bottom pb-2 mb-0">BOLETIM INTERNO</h6>
     <?php
 $pasta = "X:/Programas/SISGRAFEx/WEB_2.0/boletins/2022";  // Substitua pelo caminho real da sua pasta
